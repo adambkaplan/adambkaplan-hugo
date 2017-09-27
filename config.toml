@@ -1,5 +1,5 @@
 title = "adambkaplan"
-baseURL = "http://adambkaplan.com/"
+baseURL = "http://adambkaplan.com"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon_ico = "images/icons/favicon.ico"
+  favicon = "images/icons/favicon.ico"
   description = ""
   facebook = ""
   twitter = ""
