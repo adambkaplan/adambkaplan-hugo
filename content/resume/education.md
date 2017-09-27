@@ -1,7 +1,7 @@
 ---
 title: "Education"
 date: 2017-09-26T12:48:48-04:00
-draft: false
+draft: true
 description: "Undergraduate and continuing education."
 ---
 
