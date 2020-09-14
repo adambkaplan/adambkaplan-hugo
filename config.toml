@@ -1,7 +1,12 @@
+# Copyright Adam B Kaplan
+#
+# SPDX-License-Identifier: CC-BY-4.0
+
 title = "adambkaplan"
 baseURL = "https://adambkaplan.com"
 languageCode = "en-us"
 theme = "ananke"
+copyright = "Adam B Kaplan"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
