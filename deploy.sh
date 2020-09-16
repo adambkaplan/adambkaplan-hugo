@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Copyright Adam B Kaplan
+#
+# SPDX-License-Identifier: CC-BY-4.0
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 rm -rf public/*
