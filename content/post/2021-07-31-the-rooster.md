@@ -13,7 +13,7 @@ Suppose you want an all-American breakfast of bacon and eggs.
 You have a strenuous day of work ahead, you need all the animal protein you can get.
 There are three animals on your farm to make your breakfast - a chicken, a pig, and a rooster.
 
-The chicken lays her eggs for you, an announces her achievement with a loud "cluck."
+The chicken lays her eggs for you, and announces her achievement with a loud "cluck."
 She then moves on with whatever it is she does with her day.
 You grab the eggs, but the chicken doesn't care what you will do with them.
 
