@@ -4,9 +4,8 @@ date: 2021-01-14T21:59:21-05:00
 draft: false
 ---
 
-# Gratitude
-
 Things I am grateful for:
+<!--more-->
 
 - My wife - she is still alive and fighting COVID-19.
 - My kids - they have displayed astounding resilience isolating in our house for nearly two weeks.
@@ -19,6 +18,7 @@ Things I am grateful for:
   - When my PTO turned into a leave of absence, the People Team at Red Hat ensured that my family
     and I were taken care of.
 - My friends - keeping my spirits up with crude jokes, good memories, and NY bagels.
-- Pineapple on pizza. At the deepest point of my panic and despair, seeing a die-hard, Italian
+- [Pineapple on pizza](https://www.youtube.com/watch?v=iP7m1_v7tGo). At the deepest point of my panic and despair, seeing a die-hard, Italian
   New Yorker eat pineapple on pizza may have saved my life.
-  {{< tweet 1347170174701625345 >}}
+
+_Update_: The original tweet was deleted, replaced with the YouTube link.
