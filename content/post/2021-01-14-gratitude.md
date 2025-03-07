@@ -14,7 +14,7 @@ Things I am grateful for:
   the phone and video chats.
 - My team mates and higher-ups at Red Hat. This is twofold:
   - When my team declared, "We can't promise anything this sprint," the response was +1.
-    {{< tweet 1347656191351156739 >}}
+    {{< x user="adambkaplan" id="1347656191351156739" >}}
   - When my PTO turned into a leave of absence, the People Team at Red Hat ensured that my family
     and I were taken care of.
 - My friends - keeping my spirits up with crude jokes, good memories, and NY bagels.

@@ -65,7 +65,7 @@ And America is the only developed nation that continues to be ravaged by a
 [global pandemic](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html),
 the likes of which the world has not seen since the 1918 Spanish Flu.
 As of this post more people have died of COVID-19 in my new home state,
-[North Carolina]((https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)),
+[North Carolina](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html),
 than all total casualties on 9/11.
 As a country, the US is experiencing 9/11-scale deaths from the virus every three or
 four days.
