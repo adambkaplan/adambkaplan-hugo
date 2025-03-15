@@ -1,7 +1,10 @@
 ---
 title: "Documentation is a Software Problem"
-date: 2025-03-15T12:00:00-04:00
-tags: []
+date: 2025-03-15T00:00:00-04:00
+tags:
+  - development 
+  - documentation
+  - opensource
 featured_image: ""
 description: "Rethinking how engineers can overcome writer's block."
 ---
@@ -16,8 +19,9 @@ These days I serve as a software architect for two open source projects -
 prose than code, whether that be in the form of design documents or detailed feature requests.
 If I'm lucky, I'll tackle a thorny bug or draft a proof of concept.
 
-Both of these projects are in the business of building container images. Their documentation (as of
-2025-03-14) also needs a lot of help.
+Both of these projects are in the business of building container images. Their documentation also
+needs [a lot](https://web.archive.org/web/20250221093224/https://shipwright.io/)
+[of help](https://web.archive.org/web/20241213092544/https://konflux-ci.dev/docs/).
 
 ## Docs and Code Aren't Different
 
@@ -29,10 +33,10 @@ to machines. My functions and "if-then-else" blocks were merely ways to translat
 This notion changed about 6 months into my first job, when a group of senior engineers at my
 consulting firm organized a weekly "lunch and learn" seminar. The topic was the canonical "Gang of
 Four" _Design Patterns_ [book](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8),
-and every week we would read and discuss a different chapter. As we worked through each pattern, it
-dawned on me that writing code also communicated ideas to my peers. Design patterns was one way to
-organize ideas. Code comments, commit messages, and code review sessions also communicated my ideas
-to my colleagues.
+and every week we would discuss a different chapter. As we worked through each pattern, I realized
+that writing code communicated ideas to my peers as well as the computer. Design patterns was one
+way to express my thinking - code comments, commit messages, and code review sessions also provided
+means to share my ideas.
 
 Documentation is likewise a way - the _first_ way - to communicate with our peers and the broader
 world. If we as software engineers are in the business of communication, why is this part of the
@@ -43,9 +47,9 @@ job so hard?
 First and foremost, there's the elephant in the room - the English language. As an industry we're
 commanded to write in English first, yet for many software engineers English is not their primary
 language. My youngest son is currently in 1st grade, and much of his early years have been spent
-learning the rules and the many, many exceptions therein. English is a terrible chaos forged by an
-astounding amount of bloodshed; no wonder many of my non-English peers lack confidence writing
-docs.
+learning the rules and many, many exceptions therein. English is a terrible chaos forged by a
+[thousand years of conflict](https://en.wikipedia.org/wiki/English_language); no wonder many of my
+non-English peers lack confidence writing docs.
 
 Second, there is no compiler for good technical documentation, or rigid syntax checker that tells
 us we are failing. [Vale](https://vale.sh/) comes close to this, but I have only encountered it in
@@ -66,6 +70,6 @@ _as a product_? The questions we ask of good software products and docs are not 
 - What tools are at our disposal?
 - How should we organize our solution?
 
-I think if we as engineers design documentation in the same way we design software, we can get
-out of the trap that leads us to throw docs "over the wall" or avoid writing them completely. In
-the coming weeks I hope to explore these ideas deeper - stay tuned!
+If we as engineers design documentation in the same way we design software, we can get out of the
+trap that leads us to throw docs "over the wall" or avoid writing them completely. In the coming
+weeks I hope to explore these ideas deeper - stay tuned!
