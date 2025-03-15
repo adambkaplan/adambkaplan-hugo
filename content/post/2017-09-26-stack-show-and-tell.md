@@ -14,6 +14,8 @@ categories:
 _Updated 2017/09/27_
 
 This is the first in what I hope to be many posts on this blog. To get things started, I'd like to do a little show and tell of how I built this site.
+
+----
 <!--more-->
 
 # Code and Content

@@ -7,7 +7,6 @@ draft: false
 Using CodeReady Containers with Fedora Silverblue and Toolboxes.
 
 ----
-
 <!--more-->
 
 I use [Fedora Silverblue](https://silverblue.fedoraproject.org/) as my daily driver at work, and lately I have started using [CodeReady Containers](https://developers.redhat.com/products/codeready-containers/overview) (CRC) for development and testing.

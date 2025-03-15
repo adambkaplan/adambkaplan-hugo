@@ -11,6 +11,8 @@ tags:
 ---
 
 Almost 6 months since my last post...so much for the "many posts" on this site.
+
+----
 <!--more-->
 
 ## Site Updates
