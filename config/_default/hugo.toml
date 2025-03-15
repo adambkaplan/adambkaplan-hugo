@@ -10,8 +10,17 @@ defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
+[services]
+
 [services.googleAnalytics]
-id = ''
+id = 'G-X1H4RF61MV'
+
+[privacy]
+
+[privacy.googleAnalytics]
+
+disable = false
+respectDoNotTrack = true
 
 [pagination]
 pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
