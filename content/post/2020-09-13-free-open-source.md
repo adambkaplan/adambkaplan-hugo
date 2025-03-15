@@ -5,6 +5,8 @@ draft: false
 ---
 
 The blog is now truly free and open source.
+
+----
 <!--more-->
 
 ## Wait, my blog wasn't FOSS?

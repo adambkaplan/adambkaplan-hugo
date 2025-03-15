@@ -7,7 +7,6 @@ draft: false
 How I deployed Plex Media Server on Microshift!
 
 ----
-
 <!--more-->
 
 ## Plex on MicroShift

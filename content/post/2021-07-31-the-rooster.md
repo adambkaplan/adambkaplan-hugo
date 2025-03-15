@@ -5,9 +5,9 @@ draft: false
 ---
 
 An updated version of a motivational parable.
-<!--more-->
 
 ----
+<!--more-->
 
 Suppose you want an all-American breakfast of bacon and eggs.
 You have a strenuous day of work ahead, you need all the animal protein you can get.

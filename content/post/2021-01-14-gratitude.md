@@ -5,6 +5,8 @@ draft: false
 ---
 
 Things I am grateful for:
+
+----
 <!--more-->
 
 - My wife - she is still alive and fighting COVID-19.

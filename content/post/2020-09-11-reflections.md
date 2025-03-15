@@ -10,6 +10,8 @@ tags:
 ---
 
 An older me, looking back to one crisis amidst multiple, present crises.
+
+----
 <!--more-->
 
 ## Rose-colored glasses
